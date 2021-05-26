@@ -7,6 +7,7 @@
   <a href="https://github.com/adelonmedeiros">
     <img
       height="180em"
+      size="95%"
       src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true&count_private=true" />
     <img
       height="180em"
