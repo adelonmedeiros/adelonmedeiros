@@ -1,5 +1,5 @@
 ## Hi, I'm Adelon 👋
-### I am studying React and I currently consider myself a full stack developer in progress:
+### I am studying React and I currently consider myself a web full stack developer in progress:
 
 ##
 
