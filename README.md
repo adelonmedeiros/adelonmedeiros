@@ -1,7 +1,6 @@
 ## Hi, I'm Adelon 👋
-
+I'm studying to become a full stack web developer
 ##
-
 <div>
   <a href="https://github.com/adelonmedeiros">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark" />
