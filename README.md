@@ -4,12 +4,11 @@
 
 <div>
   <a href="https://github.com/adelonmedeiros">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelonmedeiros&layout=compact&langs_count=16&theme=dark" />
-    <div></div></a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelonmedeiros&layout=compact&theme=dark" />
+  </a>
 </div>
 
-  
    ##
   
 <div>
