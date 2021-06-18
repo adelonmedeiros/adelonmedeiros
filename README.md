@@ -1,4 +1,4 @@
-## Hi, I'm Adelon 👋
+### Hi, I'm Adelon 👋
 I'm studying to become a full stack web developer
 
 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
@@ -10,8 +10,7 @@ I'm studying to become a full stack web developer
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelonmedeiros&layout=compact&theme=dark" />
   </a>
 </div>
-
-   ##
+##
   
 <div>
   <a href="https://www.linkedin.com/in/adelon-medeiros-76ab6ab2" target="_blank"><img
