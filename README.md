@@ -4,12 +4,14 @@ I'm studying to become a full stack web developer
 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
 
 ##
+
 <div>
   <a href="https://github.com/adelonmedeiros">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelonmedeiros&layout=compact&theme=dark" />
   </a>
 </div>
+
 ##
   
 <div>
