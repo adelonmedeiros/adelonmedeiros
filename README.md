@@ -1,7 +1,7 @@
 ## Hi, I'm Adelon 👋
 I'm studying to become a full stack web developer
 
-<img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/tree/main/image/git-adelonmedeiros.png?raw=true" width="300"/>
+<img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
 
 ##
 <div>
