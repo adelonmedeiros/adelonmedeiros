@@ -1,5 +1,17 @@
-### Hi, I'm Adelon 👋
-I'm studying to become a full stack web developer
+### Hi! 👋
+
+ const me = { , <br>
+  name : 'Adelon Medeiros', <br>
+  age : 28, <br>
+  education: 'Information Systems', <br>
+  job: 'Quality Assurance/QA', <br>
+  company: 'Union Data', <br>
+  programmingSkills: [ <br>
+   'JavaScript', <br>
+   'ReactJS',  <br>
+   'React Native' <br>
+  ] <br>
+ } <br>
 
 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
 
