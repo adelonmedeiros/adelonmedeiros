@@ -24,8 +24,6 @@
   </a>
 </div>
 
-##
-  
 <div>
   <a
     href="https://www.linkedin.com/in/adelon-medeiros-76ab6ab2"
