@@ -1,7 +1,7 @@
 ### Hi! 👋 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
 
 
- const me = { , <br>
+ const me = { <br>
   name : 'Adelon Medeiros', <br>
   age : 28, <br>
   education: 'Information Systems', <br>
@@ -13,7 +13,7 @@
    'ReactJS',  <br>
    'React Native' <br>
   ] <br>
- } <br>
+ }; <br>
 
 
 ##
