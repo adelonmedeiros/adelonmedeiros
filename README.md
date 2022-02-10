@@ -1,8 +1,9 @@
-### Hi! 👋 <img align="center" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="400"/>
+### Hi! 👋 <img align="center" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="400"/> 
+<img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros2.svg?raw=true" width="400"/>
 
  const me = { <br>
   name : 'Adelon Medeiros', <br>
-  age : 28, <br>
+  age : 28, <br>   
   education: 'Information Systems', <br>
   job: 'Quality Assurance/QA', <br>
   company: 'Union Data', <br>
@@ -13,8 +14,6 @@
    'React Native' <br>
   ] <br>
  }; <br>
- 
- <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros2.svg?raw=true" width="400"/>
 
 <div>
   <a href="https://github.com/adelonmedeiros">
