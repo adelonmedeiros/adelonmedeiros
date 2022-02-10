@@ -1,4 +1,4 @@
-### Hi! 👋 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/image/git-adelonmedeiros.svg?raw=true" width="300"/>
+### Hi! 👋 <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="300"/>
 
 
  const me = { <br>
