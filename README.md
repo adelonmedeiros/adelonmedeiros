@@ -1,6 +1,5 @@
 ### Hi! 👋 <img align="center" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="400"/>
 
-
  const me = { <br>
   name : 'Adelon Medeiros', <br>
   age : 28, <br>
@@ -14,6 +13,8 @@
    'React Native' <br>
   ] <br>
  }; <br>
+ 
+ <img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros2.svg?raw=true" width="400"/>
 
 <div>
   <a href="https://github.com/adelonmedeiros">
