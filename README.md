@@ -9,6 +9,7 @@
   company: 'Union Data', <br>
   programmingSkills: [ <br>
    'JavaScript', <br>
+   'TypeScript' <br>
    'ReactJS',  <br>
    'React Native' <br>
   ] <br>
