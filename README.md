@@ -7,8 +7,8 @@
   name : 'Adelon Medeiros', <br>
   age : 28, <br>
   education: 'Information Systems', <br>
-  job: 'Quality Assurance/QA', <br>
-  company: 'Union Data', <br>
+  job: 'Automation Tester/QA', <br>
+  company: 'Compass.uol', <br>
   programmingSkills: [ <br>
    'JavaScript', <br>
    'TypeScript' <br>
