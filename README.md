@@ -18,15 +18,6 @@
  }; <br>
 
 <div>
-  <a href="https://github.com/adelonmedeiros">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=adelonmedeiros&show_icons=true&theme=dark" />
- </a>
- <a>
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelonmedeiros&layout=compact&theme=dark" />
-  </a>
-</div>
-
-<div>
   <a
     href="https://www.linkedin.com/in/adelon-medeiros-76ab6ab2"
     target="_blank"
