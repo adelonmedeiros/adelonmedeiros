@@ -9,9 +9,10 @@
   education: 'Information Systems', <br>
   job: 'Automation Tester/QA', <br>
   company: 'Compass.uol', <br>
-  programmingSkills: [ <br>
+  skills: [ <br>
+   'Cypress', <br>
+   'Cucumber' <br>
    'JavaScript', <br>
-   'TypeScript' <br>
    'ReactJS',  <br>
    'React Native' <br>
   ] <br>
