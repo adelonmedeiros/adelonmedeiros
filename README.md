@@ -1,22 +1,5 @@
-## Hello World! 👋🏻 <img align="center" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="400"/>
-
-<img align="right" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros2.svg?raw=true" width="300"/>
-
-
- const me = { <br>
-  name : 'Adelon Medeiros', <br>
-  age : 29, <br>
-  education: 'Information Systems', <br>
-  job: 'Automation Tester/QA', <br>
-  company: 'Compass.uol', <br>
-  skills: [ <br>
-   'Cypress', <br>
-   'Cucumber' <br>
-   'JavaScript', <br>
-   'ReactJS',  <br>
-   'React Native' <br>
-  ] <br>
- }; <br>
+## Hello World! 👋🏻
+<img align="center" src="https://github.com/adelonmedeiros/adelonmedeiros/blob/main/git-adelonmedeiros.svg?raw=true" width="400"/>
 
 <div>
   <a
@@ -36,7 +19,6 @@
     />
   </a>
 </div>
-
 
   
   
